@@ -1,4 +1,4 @@
-<a href=""><img src="https://img.shields.io/badge/Porfoilo-Pdf-blue"/></a>
+<a href="https://github.com/kjw7580/spring_KJWHealth_0913/blob/develop/portfolio.pdf"><img src="https://img.shields.io/badge/Porfoilo-Pdf-blue"/></a>
 <a href=""><img src="https://img.shields.io/badge/Develop-Design-blue"/></a>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KJW%20Developer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
@@ -34,5 +34,5 @@
 
 
 ### :raised_hands:🏻 &nbsp;Contact
-<a href="mailto:jinwoo2985@naver.com"><img src="https://img.shields.io/badge/-jinwoo2985@naver.com-D14836?style=flat&logo=naver&logoColor=white"/></a>
-<a href="https://github.com/kjw7580/kjw7580"><img src="https://img.shields.io/badge/-https://github.com/kjw7580/kjw7580-05122A?style=flat&logo=github&logoColor=white"/></a>
+<a href="mailto:jinwoo2985@naver.com"><img src="https://img.shields.io/badge/-jinwoo2985@naver.com-success?style=flat&logo=naver&logoColor=white"/></a>
+<a href="https://github.com/kjw7580"><img src="https://img.shields.io/badge/-https://github.com/kjw7580-05122A?style=flat&logo=github&logoColor=white"/></a>
