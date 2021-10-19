@@ -34,5 +34,5 @@
 
 
 ### :raised_hands:🏻 &nbsp;Contact
-<a href="mailto:jinwoo2985@naver.com"><img src="https://img.shields.io/badge/-jinwoo2985@naver.com-success?style=flat&logo=naver&logoColor=white"/></a>
+<a href="mailto:kjinwoo2985@naver.com"><img src="https://img.shields.io/badge/-kjinwoo2985@naver.com-success?style=flat&logo=naver&logoColor=white"/></a>
 <a href="https://github.com/kjw7580"><img src="https://img.shields.io/badge/-https://github.com/kjw7580-05122A?style=flat&logo=github&logoColor=white"/></a>
